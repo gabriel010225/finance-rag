@@ -214,6 +214,11 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+data/
+*.parquet
+mlruns/
+chroma/
 __marimo__/
 
 # Streamlit
